@@ -5,4 +5,5 @@ Dashboard1:
 https://public.tableau.com/views/BankLoanAnalysis_17423264576000/KPIOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Dashboard2:
-https://public.tableau.com/views/BankLoanAnalysis_17423264576000/OVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/BankLoanAnalysis_17423264576000/OVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+](https://public.tableau.com/authoring/BankLoanAnalysis_17423264576000/OVERVIEW#1)
